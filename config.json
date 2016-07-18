@@ -1,0 +1,8 @@
+{
+	"aliases": {
+		"spigot": "org.spigotmc:spigot",
+		"bungeecord": "net.md-5:bungeecord-bootstrap"
+	},
+	"defaultGroup": "com.foxelbox",
+	"repo": "https://maven.doridian.net/repository/maven-snapshots/"
+}
